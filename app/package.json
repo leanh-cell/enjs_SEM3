@@ -1,0 +1,24 @@
+{
+  "name": "enjs_sem3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leanh-cell/enjs_SEM3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leanh-cell/enjs_SEM3/issues"
+  },
+  "homepage": "https://github.com/leanh-cell/enjs_SEM3#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
